@@ -4,7 +4,7 @@ import './App.css';
 
 class App extends Component {
   render() {
-    document.title = "Ita"
+    document.title = "Ita";
     return (
       <div className="App">
         <header className="App-header">

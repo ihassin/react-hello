@@ -12,3 +12,4 @@ it('has a title', () => {
   ReactDOM.render(<App />, div);
   expect(document.title).toBe("Ita");
 });
+
